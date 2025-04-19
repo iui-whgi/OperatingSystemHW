@@ -1,3 +1,8 @@
+실행결과화면
+
+![스크린샷 2025-04-19 122110](https://github.com/user-attachments/assets/16b43029-06eb-451f-b79d-0e9d69a5ec43)
+
+
 # os_hw
 trying이 푸는중
 answer이 gpt로 받은 답변
